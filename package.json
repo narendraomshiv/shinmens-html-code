@@ -1,0 +1,19 @@
+{
+  "name": "html-code",
+  "version": "1.0.0",
+  "description": "html code live ",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narendraomshiv/shinmens-html-code.git"
+  },
+  "author": "Ankur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narendraomshiv/shinmens-html-code/issues"
+  },
+  "homepage": "https://github.com/narendraomshiv/shinmens-html-code#readme"
+}
