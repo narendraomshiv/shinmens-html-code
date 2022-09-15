@@ -23,7 +23,11 @@ p {
     z-index: 10;
 }
 
+<<<<<<< HEAD
 /* .up-word a {
+=======
+.up-word a {
+>>>>>>> 5da79d0a3a24e9522536e4fa37e586511bca439a
     transition: 5s;
     height: 45px;
     width: 50px;
@@ -31,7 +35,11 @@ p {
     display: inline-block;
     border-radius: 3px;
     z-index: 50;
+<<<<<<< HEAD
 } */
+=======
+}
+>>>>>>> 5da79d0a3a24e9522536e4fa37e586511bca439a
 
 .bg-color {
     background-color: #0f0f0f !important;
@@ -198,7 +206,11 @@ p {
     text-decoration: none;
     font-size: 20px;
     font-weight: 500;
+<<<<<<< HEAD
     padding-left: 45px;
+=======
+    padding-left: 30px;
+>>>>>>> 5da79d0a3a24e9522536e4fa37e586511bca439a
 }
 
 .brands .view-more a .right-arrow {
@@ -340,17 +352,28 @@ p {
 .container .flex-d .social-link {
     border: 3px solid #fff;
     display: inline-block;
+<<<<<<< HEAD
     padding: 25px;
     border-radius: 50%;
     height: 160px;
     width: 160px;
   }
+=======
+    padding: 30px;
+    border-radius: 50%;
+}
+>>>>>>> 5da79d0a3a24e9522536e4fa37e586511bca439a
 
 .container .flex-d .social-link .img {
     display: inline-block;
     padding: 15px;
+<<<<<<< HEAD
     height: 100%;
     width: 100%;
+=======
+    height: 100px;
+    width: 85.78px;
+>>>>>>> 5da79d0a3a24e9522536e4fa37e586511bca439a
     object-fit: contain;
 }
 
@@ -365,15 +388,22 @@ p {
     bottom: 75px;
 }
 
+<<<<<<< HEAD
 .brands .s-air-link {
     text-decoration: none;
     background-color: #0000005e;
+=======
+.brands .link .s-air-link {
+    text-decoration: none;
+    background-color: #000000;
+>>>>>>> 5da79d0a3a24e9522536e4fa37e586511bca439a
     color: #ffc107;
     padding: 18px 35px;
     font-size: 22px;
     padding-right: 10px;
 }
 
+<<<<<<< HEAD
 .brand-six .link {
     position: initial;
     right: 0px;
@@ -381,6 +411,8 @@ p {
 
 }
 
+=======
+>>>>>>> 5da79d0a3a24e9522536e4fa37e586511bca439a
 .brands .link .s-air-link .right-arrow {
     padding-left: 25px;
 }
@@ -661,6 +693,7 @@ p {
     padding-left: 40px;
 }
 
+<<<<<<< HEAD
 .brand-six .brand {
     position: relative;
     margin: 0px;
@@ -688,6 +721,8 @@ p {
     bottom: 158px !important;
 }
 
+=======
+>>>>>>> 5da79d0a3a24e9522536e4fa37e586511bca439a
 .tab_content .Catalogue .view-more .link-more .plus-sign {
     padding-left: 10px;
 }
@@ -977,6 +1012,7 @@ p {
     background-color: #111111;
     margin-left: 5%;
     margin-right: 5%;
+<<<<<<< HEAD
 }
 
 /* s-heat-device page css start from here */
@@ -1020,4 +1056,6 @@ p {
     height: 500px;
     width: 100%;
     background-color: #fff;
+=======
+>>>>>>> 5da79d0a3a24e9522536e4fa37e586511bca439a
 }
